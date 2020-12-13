@@ -11,7 +11,7 @@
 - handong-global-university, handong-university가 이미 사용중이며 관리되지 않은 Organization 이름이여서 handong-edu로 만들게 되었습니다.
 
 <p align="center">
-  <img src="./static/description_1.png" />
+  <img src="./static/description_1_v2.png" />
 </p>
 
 <br />
@@ -42,5 +42,13 @@
 ![desc_2](./static/newtonhall.jpg)
 
 <p align="center">
- Why not change the world?
+
+Why not change the world?
+
+Handong God's University
+
+</p>
+
+<p align="center">
+  <img src="./static/logo_resize.png" />
 </p>
